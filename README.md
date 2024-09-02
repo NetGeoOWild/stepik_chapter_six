@@ -1,2 +1,2 @@
 # stepik_chapter_six
-Stepik course chapter six - final assignment
+Баширов Г.Р. Хобби:настольные игры, ПК-игрульки, аниме, кино, отдых на природе.
